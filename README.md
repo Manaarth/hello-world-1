@@ -1,2 +1,2 @@
 # hello-world
-firts timer in github
+first timer in github
